@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: naisargipatel
+Build-Jdk: 11.0.7
+Implementation-Title: login
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.login
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/password
+Created-By: Maven Integration for Eclipse
+
